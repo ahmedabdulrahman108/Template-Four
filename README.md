@@ -1,4 +1,4 @@
 # Template-Four
 Dashbord | Template Four
-HTML 5 | CSS 
+Designed by Osama El Zero
 Preview | https://ahmedabdulrahman108.github.io/Template-Four/
